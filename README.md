@@ -123,3 +123,26 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
  [Day 7 – Built-in Functions](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+### Leetcode Practice
+- Practiced leetcode questions on previously learned topics:
+- Two Sum
+- Search Insert position
+- Remove element
+- Remove duplicates
+- Plus One
+- Merge Sorted Arrays
+- Longest Common Prefix
+
+🔗 **Code Link:** 
+[Array Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)
+
+### Scenario Based Practice
+- BMI fitness tracker
+- Coffee counter
+- Election booth manager
+- Metro Smart card
+- Raj's Result generator
+
+🔗 **Code Link:** 
+[Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
