@@ -89,14 +89,14 @@ BridgeLabz-Training/
  [Day 5 – Arrays](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
-### Day 6 – Strings & Methods  
+
+### Week 2: Worked on Methods, Strings, Leetcode and Scenario based problems
+
+---
+
+### Day 6 – Java Methods Practice
 **(Date: 22-Dec-2025)**
 
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
 - Studied Java methods:
   - Method declaration
   - Method calling
@@ -104,13 +104,25 @@ BridgeLabz-Training/
 - Practiced reusable logic using methods.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  
- [Day 6 – Strings](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
- [, Methods](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+🔗 **Code Link:**
+ [Day 6 - Methods](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
-### Day 7 – Built-in Functions & Extra Practice  
+### Day 7 – Java Strings Practice
 **(Date: 23-Dec-2025)**
+
+ - Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented programs for string manipulation.
+
+ 🔗 **Code Link:**  
+ [Day 7 – Strings](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+---
+### Day 8 – Built-in Functions & Extra Practice  
+**(Date: 24-Dec-2025)**
 
 - Practiced Java built-in functions.
 - Implemented utility programs such as:
@@ -122,17 +134,19 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
- [Day 7 – Built-in Functions](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+ [Day 8 – Built-in Functions](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
+---
+### Day 9 – (Daily Practice) : Scenario-Based Problems & LeetCode  
+**(Date: 25-Dec-2025)**
+
+- Practiced leetcode and scenario-based problems on previously learned topics:
 ### Leetcode Practice
-- Practiced leetcode questions on previously learned topics:
 - Two Sum
 - Search Insert position
 - Remove element
 - Remove duplicates
 - Plus One
-- Merge Sorted Arrays
-- Longest Common Prefix
 
 🔗 **Code Link:** 
 [Array Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)
@@ -140,9 +154,30 @@ BridgeLabz-Training/
 ### Scenario Based Practice
 - BMI fitness tracker
 - Coffee counter
-- Election booth manager
-- Metro Smart card
-- Raj's Result generator
+
+🔗 **Code Link:** 
+[Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+---
+### Day 10 – (Daily Practice) : Scenario-Based Problems & LeetCode  
+**(Date: 26-Dec-2025)**
+
+- Practiced leetcode and scenario-based problems on previously learned topics:
+### Leetcode Practice
+- Buy and sell stock
+- Majority element
+- Merge sorted arrays
+- Single Number
+- Longest Common prefix
+
+🔗 **Code Link:** 
+[Array Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/arrays)
+
+### Scenario Based Practice
+- Election Booth Manager
+- Metro Smart Card Fare Deduction
+- Raj’s Result Generator ‍
 
 🔗 **Code Link:** 
 [Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
