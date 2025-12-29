@@ -158,7 +158,6 @@ BridgeLabz-Training/
 🔗 **Code Link:** 
 [Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-
 ---
 ### Day 10 – (Daily Practice) : Scenario-Based Problems & LeetCode  
 **(Date: 26-Dec-2025)**
@@ -178,6 +177,31 @@ BridgeLabz-Training/
 - Election Booth Manager
 - Metro Smart Card Fare Deduction
 - Raj’s Result Generator ‍
+
+🔗 **Code Link:** 
+[Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+### Day 11 – (Daily Practice) : Scenario-Based Problems
+**(Date: 27-Dec-2025)**
+
+- Practiced scenario-based problems on previously learned topics:
+### Scenario Based Practice
+- Parking Lot Gate System
+- The Number Guessing Game 
+
+🔗 **Code Link:** 
+[Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+### Day 12 – (Daily Practice) : Scenario-Based Problems
+**(Date: 29-Dec-2025)**
+
+- Practiced scenario-based problems on previously learned topics:
+### Scenario Based Practice
+- Shopkeeper’s Discount Dashboard
+- School Bus Attendance System
+- Phone Recharge Simulator  
 
 🔗 **Code Link:** 
 [Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
