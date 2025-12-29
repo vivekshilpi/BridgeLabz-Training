@@ -21,3 +21,17 @@
 
 *🔗 Code Link :* [Constructors & Access Modifiers](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
+----
+
+## Day 3 - (this, static, final, instanceof) keywords in JAVA
+
+*(Date: 29-Dec-2025)*
+
+- Learned the usage of this keyword to refer to the current class object
+- Practiced static and final keywords for class-level members and immutability
+- Learned and practiced the instanceof keyword for type checking at runtime
+
+*🔗 Code Link :* [Keywords](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
+
+
+
