@@ -138,7 +138,7 @@ BridgeLabz-Training/
 
 ---
 ### Day 9 – (Daily Practice) : Scenario-Based Problems & LeetCode  
-**(Date: 25-Dec-2025)**
+**(Date: 26-Dec-2025)**
 
 - Practiced leetcode and scenario-based problems on previously learned topics:
 ### Leetcode Practice
@@ -160,7 +160,7 @@ BridgeLabz-Training/
 
 ---
 ### Day 10 – (Daily Practice) : Scenario-Based Problems & LeetCode  
-**(Date: 26-Dec-2025)**
+**(Date: 27-Dec-2025)**
 
 - Practiced leetcode and scenario-based problems on previously learned topics:
 ### Leetcode Practice
@@ -183,7 +183,7 @@ BridgeLabz-Training/
 
 ---
 ### Day 11 – (Daily Practice) : Scenario-Based Problems
-**(Date: 27-Dec-2025)**
+**(Date: 29-Dec-2025)**
 
 - Practiced scenario-based problems on previously learned topics:
 ### Scenario Based Practice
@@ -195,7 +195,7 @@ BridgeLabz-Training/
 
 ---
 ### Day 12 – (Daily Practice) : Scenario-Based Problems
-**(Date: 29-Dec-2025)**
+**(Date: 30-Dec-2025)**
 
 - Practiced scenario-based problems on previously learned topics:
 ### Scenario Based Practice
@@ -205,3 +205,18 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** 
 [Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+### Day 13 – (Daily Practice) : Scenario-Based Problems
+**(Date: 31-Dec-2025)**
+
+- Simulated a Digital Watch using nested for-loops to print 24-hour time format and applied break to stop execution at 13:00 (power cut simulation)
+- Built an Online Quiz Application using arrays and for-loops to ask MCQs, calculate scores, and validate answers using switch-case
+- Designed a Currency Exchange Kiosk to convert INR into multiple currencies using switch-case and do-while loop for repeated conversions
+- Implemented a Bus Route Distance Tracker using while-loop to calculate total distance travelled with user-controlled exit at stops
+- Created a Festival Lucky Draw System applying conditional logic, modulus operator, loops, and continue for invalid inputs
+- Strengthened understanding of loops, switch-case, conditional statements, clean structure, and committed all scenario-based programs to GitHub
+🔗 **Code Link:** 
+[Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
