@@ -33,5 +33,62 @@
 
 *🔗 Code Link :* [Keywords](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
 
+----
 
+## Day 4 - Classes, Objects & Basics of Object-Oriented Design in JAVA
+
+*(Date: 30-Dec-2025)*
+
+- Learned the fundamentals of classes and objects to model real-world entities using Java.
+- Practiced object creation, method invocation, and data encapsulation for secure and modular design.
+- Understood the basics of object-oriented design principles for building structured and maintainable applications.
+
+*🔗 Code Link :* [ClassObject](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+----
+
+## Day 5 - Inheritance & Polymorphism in JAVA
+
+*(Date: 31-Dec-2025)*
+
+- Learned the concept of Inheritance in Java as a core OOP principle for reusing and extending existing class behavior
+- Understood superclass and subclass relationships, including how child classes inherit fields and methods from parent classes
+- Implemented different types of inheritance: Single, Multilevel, Hybrid and Hierarchical using real-world examples
+- Practiced method overriding to achieve runtime polymorphism and modify parent class behavior in child classes
+- Studied constructor chaining using super() and learned why constructors are not inherited in Java
+- Explored access modifiers (public, protected, default, private) and their role in inheritance and data visibility
+
+*🔗 Code Link :* [Inheritance](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+----
+
+## Day 6 - Encapsulation, Polymorphism & OOP Scenario-Based Design
+
+*(Date: 01-Jan-2026)*
+
+- Learned Encapsulation to achieve data hiding and integrity using private fields with public getters/setters, implemented through a Bank Account System with proper validation
+- Studied Polymorphism, including compile-time (method overloading) and runtime (method overriding) to enable flexible and reusable code
+- Practiced polymorphism using inheritance, interfaces, and abstract classes, along with safe downcasting using instanceof
+- Understood Abstract Classes vs Interfaces, their differences, use cases, and best practices for building loosely coupled and scalable systems
+- Learned a structured approach to solve OOP scenario-based problems, including identifying entities, responsibilities, relationships, and behaviors
+- Applied OOP design planning by defining classes, attributes, methods, constructors, access modifiers, and choosing appropriate data structures (arrays, lists, maps) based on problem requirements
+- Learned Abstract Classes vs Interfaces, their features, differences, use cases, and best practices for designing scalable and loosely coupled systems
+
+*🔗 Code Link :* [Encapsulation](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation_polymorphism_interface_abstract) &
+[Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+----
+
+## Day 7 - Scenario Based Problems
+
+*(Date: 02-Jan-2026)*
+
+- Learned Encapsulation as a core OOP principle to bundle data and methods, ensure data hiding, and protect object integrity using private fields with public getters and setters
+- Implemented a Bank Account System to enforce validation rules for balance, deposits, and withdrawals through controlled access methods
+- Studied Polymorphism and its advantages such as code reusability, flexibility, and extensibility
+- Practiced Compile-time Polymorphism using method overloading and Runtime Polymorphism using method overriding with inheritance
+- Explored polymorphism using interfaces and abstract classes, enabling dynamic behavior through superclass and interface references
+- Understood type casting and instanceof for safe downcasting in polymorphic scenarios, and compared Abstract Classes vs Interfaces with their use cases and best practices
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
