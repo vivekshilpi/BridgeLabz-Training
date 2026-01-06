@@ -1,6 +1,6 @@
 ## Data Structure Concepts
 
-### Day 1 - Linked List
+### 📅 Day 1 - Linked List
 
 (Date: 02-Jan-2026)
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Day 2 - Stack, Queue, HashMap and Hashing Functions
+### 📅 Day 2 - Stack, Queue, HashMap and Hashing Functions
 
 (Date: 03-Jan-2026)
 
@@ -30,3 +30,18 @@
 🔗 Link : [Queue](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/queue)
 
 🔗 Link : [HashMap and HashingFunction](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/hashmap)
+
+---
+
+### 📅 Day 3 - Sorting Algorithms
+
+(Date: 04-Jan-2026)
+
+- Learned and implemented fundamental sorting algorithms including Bubble Sort, Selection Sort, Insertion Sort, Counting Sort, Quick Sort, and Merge Sort.
+- Understood time and space complexity trade-offs of each sorting technique and their best-case, average-case, and worst-case scenarios.
+- Practiced applying sorting algorithms to real-world style problems such as ordering student marks and structured datasets.
+
+🔗 Link : [Sorting](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/sorting)
+
+
+
