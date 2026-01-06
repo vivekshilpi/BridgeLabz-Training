@@ -1,0 +1,8 @@
+package event_ease;
+
+interface ISchedulable {
+    void schedule();
+    void reschedule(String newDate);
+    void cancel();
+}
+
