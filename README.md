@@ -120,3 +120,20 @@
 - Applied secure price handling, polymorphic discounts, and item-wise bill generation
 
 *🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+----
+
+## Day 10 - Scenario Based Problems
+
+*(Date: 06-Jan-2026)*
+
+- Designed EduMentor – Personalized Learning Platform using OOP principles with quizes and ICertificate 
+- Applied Encapsulation for quiz answers (can’t be modified once set)
+- Implemented Inheritance & Polymorphism to generate certificate for Learners and Instructors
+- Used interfaces to standardize full time and short time course
+- Built FitTrack – Personal Fitness Tracker with personalized workout
+- Practiced constructors, access modifiers, and operator-based calculations for calorie targets and progress
+- Strengthened understanding of real-world OOP design and clean code structure
+- Built PetPal – Virtual Pet Care App & EventEase – Event Management Platform to apply OOPS concepts
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
