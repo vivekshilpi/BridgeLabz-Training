@@ -43,5 +43,20 @@
 
 🔗 Link : [Sorting](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/sorting)
 
+---
+
+### 📅 Day 4 - Strings, File Handling & Searching Algorithms
+
+(Date: 06-Jan-2026)
+
+- Learned StringBuilder for mutable and fast string operations (non-synchronized)
+- Studied StringBuffer for thread-safe string manipulation (synchronized)
+- Understood differences between String, StringBuilder, and StringBuffer
+- Practiced FileReader to read data from files using character streams
+- Implemented Linear Search to find elements by sequential traversal
+- Practiced Binary Search on sorted data for efficient searching
+
+🔗 Link : [Searching](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linear_and_binarysearch)
+
 
 
