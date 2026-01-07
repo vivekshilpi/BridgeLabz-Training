@@ -169,7 +169,7 @@ Java OOPS:
 LeetCode:
 
 - Majority Element
-- Missing Number
+- Plus One
 
 Java OOPS:
 
@@ -191,7 +191,7 @@ Java OOPS:
 - Practiced the instanceof keyword to check object type and ensure safe type casting.
 - Completed multiple real-world programs to strengthen understanding and practical implementation of these keywords.
 
-Scenario Based
+Scenario Based:
 
 - Parking System
 - Number Guessing Game
@@ -202,4 +202,33 @@ Scenario Based
 🔗 **Code Link:**  
  [Day 11 - Keywords](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords) , [Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
- 
+---
+### Day 12 – Object Modelling & UML
+**(Date: 30-Dec-2025)**
+
+- Understood the difference between classes and objects, where a class acts as a blueprint and objects represent real instances created at runtime.
+- Learned about class diagrams and how they define the static structure of a system using classes, attributes, methods, and relationships.
+- Studied object diagrams to visualize actual object instances and their state at a specific point in time.
+- Explored sequence diagrams to understand the flow of interactions and method calls between objects in a time-ordered manner.
+
+Solved leetcode array questions on previously learned topics:
+
+- Buy and sell stock
+- Longest Common Prefix
+- Merge Sorted Arrays
+- Search Insert Position
+
+Solved questions on real world scenario:
+
+Temperature Logger
+Train Reservation
+Fitness Tracker
+Movie Ticket Booking
+Library Fine Reminder 
+
+Implemented the previously learned topics. Completed and pushed to GitHub.
+
+🔗 **Code Link:**  
+ [Day 12 - UML](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src) , [Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase)
+
+  
