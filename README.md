@@ -147,7 +147,6 @@ Scenario-Based:
 
 Core Java:
 
-- Buy & Sell Stock
 - Remove Duplicates
 - Remove Element
 - Election Booth Manager
@@ -182,5 +181,25 @@ Java OOPS:
 🔗 **Code Link:**  
  [Day 10 - Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase) , [Constructor](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
+---
+### Day 11 – Scenario Programs + Java Keywords
+**(Date: 29-Dec-2025)**
+
+- Understood the purpose and usage of the this keyword to refer to the current object and resolve variable ambiguity and contructor chaining.
+- Learned the static keyword and its use with variables, methods, and blocks to share data across objects.
+- Studied the final keyword and its application with variables, methods, and classes to restrict modification and inheritance.
+- Practiced the instanceof keyword to check object type and ensure safe type casting.
+- Completed multiple real-world programs to strengthen understanding and practical implementation of these keywords.
+
+Scenario Based
+
+- Parking System
+- Number Guessing Game
+- Discount Dashboard
+- Bus Attendance System
+- Phone Recharge Simulator
+
+🔗 **Code Link:**  
+ [Day 11 - Keywords](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords) , [Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
  
