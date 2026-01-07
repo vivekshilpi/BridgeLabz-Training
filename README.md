@@ -1,7 +1,5 @@
 # BridgeLabz-Training
 
-### Week 1: Git, GitHub & Java Programming Fundamentals
-
 ---
 
 ### Day 1 – Git & GitHub Setup  
@@ -126,4 +124,19 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
  [Day 7 – Built-in Functions](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
+---
+### Day 8 – LeetCode & Scenario-Based Practice  
+**(Date: 24-Dec-2025)**
 
+LeetCode:
+
+- Two Sum
+- Single Number
+
+Scenario-Based:
+
+- BMI Calculator
+- Coffee Counter Chronicles
+
+🔗 **Code Link:**  
+ [Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase)
