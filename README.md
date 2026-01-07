@@ -240,5 +240,16 @@ Implemented the previously learned topics. Completed and pushed to GitHub.
 - Constructor chaining
 
 🔗 **Code Link:**  
- [Day 11 - Inheritance](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+ [Day 13 - Inheritance](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
   
+ ---
+### Day 14 – Encapsulation, Abstraction & Polymorphism
+**(Date: 01-Jan-2026)**
+
+- Encapsulation
+- Compile-time & runtime polymorphism
+- Abstract class vs Interface
+
+🔗 **Code Link:**  
+ [Day 14 - Encapsulation, Abstraction & Polymorphism](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation_polymorphism_interface_abstract)
+
