@@ -139,4 +139,27 @@ Scenario-Based:
 - Coffee Counter Chronicles
 
 🔗 **Code Link:**  
- [Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase)
+ [Day 8 - Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase) , [Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+### Day 9 – Advanced Arrays + OOP Basics (Class & Object)  
+**(Date: 26-Dec-2025)**
+
+Core Java:
+
+- Buy & Sell Stock
+- Remove Duplicates
+- Remove Element
+- Election Booth Manager
+- Metro Smart Card
+- Result Generator
+
+Java OOPS:
+
+- Procedural vs OOP
+- Class & Object concepts
+
+🔗 **Code Link:**  
+ [Day 9 - Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase) , [Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) , [Class And Object](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+
