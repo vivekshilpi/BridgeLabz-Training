@@ -253,3 +253,27 @@ Implemented the previously learned topics. Completed and pushed to GitHub.
 🔗 **Code Link:**  
  [Day 14 - Encapsulation, Abstraction & Polymorphism](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation_polymorphism_interface_abstract)
 
+---
+### Day 15 – DSA (Linkedlist) & OOP Scenario-Based
+**(Date: 02-Jan-2026)**
+
+Data Structure Concepts:
+
+- Learned the introduction and importance of data structures in organizing and managing data efficiently.
+- Studied key features of data structures in Java such as efficiency, reusability, and optimization.
+- Understood different types of data structures in Java including linear and non-linear structures.
+- Learned the concept and working of single linked lists.
+- Studied doubly linked lists and how they allow traversal in both directions.
+- Understood circular linked lists and their advantages over linear linked lists.
+  
+OOP Scenario-Based Design:
+
+- University enrollment system
+- Vehicle rental system
+- Hospital patient management system
+- Smart home automation system
+
+🔗 **Code Link:**  
+ [Day 15 - Linkedlist](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linkedlist) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src) ,
+  
+
