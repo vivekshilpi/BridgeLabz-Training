@@ -274,6 +274,23 @@ OOP Scenario-Based Design:
 - Smart home automation system
 
 🔗 **Code Link:**  
- [Day 15 - Linkedlist](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linkedlist) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src) ,
+ [Day 15 - Linkedlist](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linkedlist) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
   
+---
+### Day 16 – Stack, Queue, HashMap and Hashing Functions
+**(Date: 03-Jan-2026)**
 
+- Learned the concept of stack and its working based on the LIFO (Last In, First Out) principle.
+- Studied queue and its working based on the FIFO (First In, First Out) principle.
+- Practiced basic stack and queue operations such as insertion, deletion, and traversal.
+- Learned the concept of hashing and how a hashing function works.
+- Studied HashMap in Java and how it stores data using key–value pairs for fast access.
+- 
+Oops Scenario Based:
+
+- Bank Management System
+- Cabby go program
+
+
+🔗 **Code Link:**  
+ [Day 16 - Stack, Queue, HashMap](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
