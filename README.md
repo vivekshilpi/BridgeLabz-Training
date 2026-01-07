@@ -231,4 +231,14 @@ Implemented the previously learned topics. Completed and pushed to GitHub.
 🔗 **Code Link:**  
  [Day 12 - UML](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src) , [Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase)
 
+ ---
+### Day 13 – Inheritance & Polymorphism
+**(Date: 31-Dec-2025)**
+
+- Inheritance types
+- Method overriding
+- Constructor chaining
+
+🔗 **Code Link:**  
+ [Day 11 - Inheritance](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
   
