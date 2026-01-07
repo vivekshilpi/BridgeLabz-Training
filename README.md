@@ -163,3 +163,24 @@ Java OOPS:
  [Day 9 - Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase) , [Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) , [Class And Object](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 
+---
+### Day 10 – LeetCode + Constructors & Access Modifiers 
+**(Date: 27-Dec-2025)**
+
+LeetCode:
+
+- Majority Element
+- Missing Number
+
+Java OOPS:
+
+- Constructors
+- Constructor overloading
+- Access modifiers
+- Static vs instance members
+
+🔗 **Code Link:**  
+ [Day 10 - Leetcode](https://github.com/vivekshilpi/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase) , [Constructor](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+
+ 
