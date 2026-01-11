@@ -58,5 +58,19 @@
 
 🔗 Link : [Searching](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linear_and_binarysearch)
 
+---
+
+### 📅 Day 5 - Runtime Analysis  
+
+(Date: 07-Jan-2026)
+
+- Learned runtime analysis and how it evaluates the efficiency of an algorithm based on time and space usage.
+- Studied Big-O notation to express algorithm performance and scalability as input size grows.
+- Understood time complexity analysis to measure how execution time increases with input size.
+- Learned space complexity analysis to evaluate the amount of memory an algorithm requires.
+- Studied best, worst, and average case complexities to analyze algorithm behavior under different conditions.
+- Learned practical guidelines for optimizing Java code by reducing unnecessary computations and improving performance.
+  
+🔗 Link : [Runtime Analysis](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/runtimeanalysis)
 
 
