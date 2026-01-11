@@ -152,3 +152,16 @@
 
 
 *🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+----
+
+## Day 12 - Scenario Based Problems
+
+*(Date: 08-Jan-2026)*
+
+- Practiced real life, scenario based problems. 
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+- Successfully completed all assigned programs and verified the output results.
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
