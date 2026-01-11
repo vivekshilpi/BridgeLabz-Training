@@ -298,7 +298,7 @@ OOP Scenario-Based Design:
 - Practiced basic stack and queue operations such as insertion, deletion, and traversal.
 - Learned the concept of hashing and how a hashing function works.
 - Studied HashMap in Java and how it stores data using key–value pairs for fast access.
-- 
+  
 Oops Scenario Based:
 
 - Bank Management System
@@ -350,9 +350,30 @@ Practiced real life, scenario based problems:
 - FitTrack – Your Personal Fitness Tracke
 - PetPal – Virtual Pet Care App
 - EventEase – Event Management Platform
+  
 Successfully completed all assigned programs and verified the output results.
 
 🔗 **Code Link:**  
  [Day 18 - Linear & Binary Search](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/sorting) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
+---
+### Day 19 – Runtime Analysis & Scenario-Based
+**(Date: 07-Jan-2026)**
+
+- Learned runtime analysis and how it evaluates the efficiency of an algorithm based on time and space usage.
+- Studied Big-O notation to express algorithm performance and scalability as input size grows.
+- Understood time complexity analysis to measure how execution time increases with input size.
+- Learned space complexity analysis to evaluate the amount of memory an algorithm requires.
+- Studied best, worst, and average case complexities to analyze algorithm behavior under different conditions.
+- Learned practical guidelines for optimizing Java code by reducing unnecessary computations and improving performance.
+
+- Practiced real life, scenario based problems:
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+  
+Successfully completed all assigned programs and verified the output results.
+
+🔗 **Code Link:**  
+ [Day 19 - Runtime Analysis](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/sorting) , [OOPs Scenario](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
