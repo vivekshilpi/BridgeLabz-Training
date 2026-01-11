@@ -165,3 +165,18 @@
 - Successfully completed all assigned programs and verified the output results.
 
 *🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+----
+
+## Day 13 - Scenario Based Problems
+
+*(Date: 09-Jan-2026)*
+
+- Practiced real life, scenario based problems. 
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+- Successfully completed all assigned programs and verified the output results.
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
