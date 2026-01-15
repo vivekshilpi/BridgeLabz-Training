@@ -75,8 +75,6 @@
 
 ## LeetCode and Scenario-Based Practice
 
----
-
 ### 📅 Day 6 
 
 (Date: 10-Jan-2026)
@@ -85,6 +83,22 @@
 - BookShelf – Library Organizer
 - BrowserBuddy – Tab History Manager
 - AmbulanceRoute – Emergency Patient Navigation
+- Successfully completed all assigned programs and verified the output results.
+  
+🔗 Link : [Scenario-based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
+### 📅 Day 7 
+
+(Date: 12-Jan-2026)
+
+- Practiced real life, scenario based problems.
+- CallCenter – Customer Queue Manager
+- TrainCompanion – Compartment Navigation System
+- TextEditor – Undo/Redo Functionality
+- TrafficManager – Roundabout Vehicle Flow
+- BookShelf – Library Organizer
 - Successfully completed all assigned programs and verified the output results.
   
 🔗 Link : [Scenario-based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
