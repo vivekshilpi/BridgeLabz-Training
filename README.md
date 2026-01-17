@@ -447,3 +447,19 @@ Successfully completed all assigned programs and verified the output results.
 - Successfully completed all assigned programs and verified the output results.
 
 *🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+----
+
+## Day 25 - Scenario Based(DSA)
+
+*(Date: 15-Jan-2026)*
+
+- Practiced real life, scenario based problems. 
+- HospitalQueue – Patient Sorting by Criticality
+- SmartShelf – Real-Time Book Arrangement
+- ZipZipMart – Daily Sales Summary Report
+- EventManager – Ticket Price Optimizer
+- ExamCell – Student Rank Generator
+- Successfully completed all assigned programs and verified the output results.
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
