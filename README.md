@@ -418,3 +418,19 @@ Successfully completed all assigned programs and verified the output results.
 
 *🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
+----
+
+## Day 23 - Scenario Based(DSA)
+
+*(Date: 12-Jan-2026)*
+
+- Practiced real life, scenario based problems. 
+- CallCenter – Customer Queue Manager
+- TrainCompanion – Compartment Navigation System
+- TextEditor – Undo/Redo Functionality
+- TrafficManager – Roundabout Vehicle Flow
+- BookShelf – Library Organizer
+- Successfully completed all assigned programs and verified the output results.
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
