@@ -403,3 +403,18 @@ Successfully completed all assigned programs and verified the output results.
 - Successfully completed all assigned programs and verified the output results.
 
 *🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+----
+
+## Day 22 - Scenario Based(DSA)
+
+*(Date: 10-Jan-2026)*
+
+- Practiced real life, scenario based problems. 
+- BookShelf – Library Organizer
+- BrowserBuddy – Tab History Manager
+- AmbulanceRoute – Emergency Patient Navigation
+- Successfully completed all assigned programs and verified the output results.
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
