@@ -23,7 +23,7 @@
 - Practiced List, Set, Queue, and Map interfaces with real-world problems.
 - Implemented list operations, set calculations, queue/stack simulations, and map-based analytics.
 - Built Insurance Policy Management and Voting System using HashMap, LinkedHashMap, TreeMap, and Sets.
-- Focused on data handling, ordering, and performance comparison.
+- Focused on data handling, ordering, and performance comparison. 
 
 🔗 **Code Link:**
 👉 [Java Collections](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/collections)
