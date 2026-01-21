@@ -26,7 +26,7 @@ BridgeLabz-Training/
 │ 	│── scenario-based-codebase/
 │── README.md
 ```
-
+ 
 ### 📅 Day 1 - Linked List
 
 (Date: 02-Jan-2026)
