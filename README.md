@@ -505,3 +505,19 @@ Successfully completed all assigned programs and verified the output results.
 
 ---
 
+### Day 28 - Scenario-Based Problems on DSA & OOPS
+
+*(Date: 19-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting.
+   - EduResults – Rank Sheet Generator
+   - FlashDealz – Product Sorting by Discount
+   - FitnessTracker – Daily Step Count Ranking
+   - Address Book System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [OOPs Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
