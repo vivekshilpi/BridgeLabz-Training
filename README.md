@@ -199,7 +199,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 13  
+### Day 13   
 **(Date: 20-Jan-2026)**
 
 - `MovieTime` (Insertion Sort) – Inserted new showtimes in real time while maintaining sorted order.
