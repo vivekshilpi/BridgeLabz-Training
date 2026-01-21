@@ -521,3 +521,15 @@ Successfully completed all assigned programs and verified the output results.
 🔗 *Link :* [OOPs Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
 ---
+
+### Day 29 - Scenario-Based Problems on DSA
+
+*(Date: 20-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting.
+   - MovieTime – Theater Show Listings
+   - FoodFest – Sorting Stalls by Customer Footfall 
+   - GamerZone – High Score Ranking System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
