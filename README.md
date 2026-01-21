@@ -450,16 +450,22 @@ Successfully completed all assigned programs and verified the output results.
 
 ----
 
-## Day 25 - Scenario Based(DSA)
+### Day 25 - Java Generics & Scenario-Based Problems on DSA
 
 *(Date: 15-Jan-2026)*
+- Covered Java Generics fundamentals: type safety, reusability, bounded types, and wildcards.
+- Implemented real-world generic systems: Smart Warehouse, Online Marketplace, Course Management, Meal Planner, AI Resume Screening.
+- Practiced real life, scenario based problems.
+   - HospitalQueue – Patient Sorting by Criticality
+   - SmartShelf – Real-Time Book Arrangement
+   - ZipZipMart – Daily Sales Summary Report
+   - EventManager – Ticket Price Optimizer
+   - ExamCell – Student Rank Generator
+-  Successfully completed all assigned programs and verified the output results.
 
-- Practiced real life, scenario based problems. 
-- HospitalQueue – Patient Sorting by Criticality
-- SmartShelf – Real-Time Book Arrangement
-- ZipZipMart – Daily Sales Summary Report
-- EventManager – Ticket Price Optimizer
-- ExamCell – Student Rank Generator
-- Successfully completed all assigned programs and verified the output results.
+🔗 *Link :* [DSA Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
-*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+🔗 *Link :* [Generics](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/generics)
+
+--- 
+
