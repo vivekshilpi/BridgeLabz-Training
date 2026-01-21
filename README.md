@@ -13,7 +13,7 @@
    - `AI Resume Screening` – Processed resumes for multiple job roles safely.
 
 🔗 **Code Link:**
-👉 [Generic Problems](https://github.com/iakashhhh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+👉 [Generic Problems](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/generics)
 
 ---
 
