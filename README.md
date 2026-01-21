@@ -180,3 +180,27 @@
 
 *🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
 
+---
+
+### Day 14 
+**(Date: 12-Jan-2026)**
+
+- `HomeNest` – Managed smart devices (Light, Camera, Thermostat, Lock) with inheritance, interfaces, encapsulation, and polymorphism.
+- `BudgetWise` – Tracked income/expenses and budgets using inheritance and polymorphic reports.
+- `GameBox` – Mobile game platform with genre-based behavior, secure user data, and seasonal offers.
+- Practiced real-world OOP design with clean, modular Java code.
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
+
+###  Day 15 
+**(Date: 13-Jan-2026)**
+
+- `PayXpress` – Utility Bill Payment System – Managed bills (Electricity, Water, Internet) with inheritance, interfaces, encapsulation, and polymorphic reminders.
+- `Bird Sanctuary` – Tracked birds with different abilities (fly/swim/both/none) using inheritance, interfaces, and polymorphism; maintained a list of birds and behavior-based actions.
+- Practiced clean, modular Java OOP design with real-world scenarios.
+
+*🔗 Code Link :* [Scenario based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
