@@ -1,4 +1,31 @@
-## Data Structure Concepts
+# 💻 BridgeLabz-Training
+
+## 🗓 Week 3 : Data Structures & Algorithms in Java
+
+## 📘 Section A : Training Learning Progress
+
+### 🗓 Day 15 – Introduction to Data Structures & Algorithms
+**(Date: 02-Jan-2026)**
+- Set up and revised the `dsa-practice` branch structure.
+```
+BridgeLabz-Training/
+│── java-dsa-practice/
+│ 	│── gcr-codebase/
+|   |   |── JavaDsaConcepts/
+|   |       |── src/
+|   |           |── com/
+|   |               |── linkedlist/
+|   |               |── stack/
+|   |               |── queues/
+|   |               |── hashmap/
+|   |               |── sorting/
+|   |               |── linear_and_binary_search/
+|   |               |── runtimeanalysis/
+|   |
+│ 	│── leet-code-codebase/
+│ 	│── scenario-based-codebase/
+│── README.md
+```
 
 ### 📅 Day 1 - Linked List
 
@@ -133,3 +160,53 @@
   
 🔗 Link : [Scenario-based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
+---
+
+###  Day 10 
+**(Date: 16-Jan-2026)**
+
+- `RoboWarehouse` (Insertion Sort) – Dynamically inserted package weights while maintaining ascending order; optimized for low memory and streaming data.
+- `CinemaHouse` (Bubble Sort) – Sorted small sets of movie showtimes using simple, easy-to-maintain logic.
+- `CropMonitor` (Quick Sort) – Efficiently sorted large, unordered sensor data by timestamp using fast partition-based sorting.
+- Practiced choosing optimal sorting algorithms based on real-world constraints.
+
+🔗 Link : [Scenario-based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
+### Day 11 
+**(Date: 17-Jan-2026)**
+
+- `ArtExpo` (Insertion Sort) – Maintained artist registrations sorted by time with real-time insertions.
+- `FleetManager` (Merge Sort) – Combined sorted vehicle maintenance lists from multiple depots efficiently.
+- `IceCreamRush` (Bubble Sort) – Sorted ice cream flavors by weekly popularity for a small dataset.
+- `SmartLibrary` (Insertion Sort) – Automatically kept borrowed books alphabetically sorted during dynamic insertions.
+- Practiced selecting Bubble, Insertion, Merge, and Quick Sort based on data size, order, and real-world constraints.
+
+🔗 Link : [Scenario-based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
+### Day 12 
+**(Date: 19-Jan-2026)**
+
+- `EduResults` (Merge Sort) – Merged district-wise sorted student scores to generate a stable state-level rank list.
+- `FlashDealz` (Quick Sort) – Efficiently sorted large, unsorted product discounts for instant flash-sale results.
+- `FitnessTracker` (Bubble Sort) – Ranked daily step counts for small groups with frequent real-time updates.
+- Applied appropriate sorting algorithms based on data size, stability, and performance needs.
+
+🔗 Link : [Scenario-based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
+### Day 13 
+**(Date: 20-Jan-2026)**
+
+- `MovieTime` (Insertion Sort) – Inserted new showtimes in real time while maintaining sorted order.
+- `FoodFest` (Merge Sort) – Combined zone-wise sorted stall footfall data into a stable master list.
+- `GamerZone` (Quick Sort) – Ranked large, dynamic player scores efficiently for live leaderboards.
+- Selected sorting techniques based on data flow, size, and performance needs.
+  
+🔗 Link : [Scenario-based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
