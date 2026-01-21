@@ -185,7 +185,7 @@
 ### Day 14 
 **(Date: 12-Jan-2026)**
 
-- `HomeNest` – Managed smart devices (Light, Camera, Thermostat, Lock) with inheritance, interfaces, encapsulation, and polymorphism.
+- `HomeNest` – Managed smart devices (Light, Camera, Thermostat, Lock) with inheritance, interfaces, encapsulation, and polymorphism. 
 - `BudgetWise` – Tracked income/expenses and budgets using inheritance and polymorphic reports.
 - `GameBox` – Mobile game platform with genre-based behavior, secure user data, and seasonal offers.
 - Practiced real-world OOP design with clean, modular Java code.
