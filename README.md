@@ -469,3 +469,20 @@ Successfully completed all assigned programs and verified the output results.
 
 --- 
 
+###  Day 26 – Java Collections & DSA Sorting Scenarios
+**(Date: 16-Jan-2026)**
+
+- Practiced List, Set, Queue, and Map interfaces with real-world problems.
+    - Implemented list operations, set calculations, queue/stack simulations, and map-based analytics.
+    - Built Insurance Policy Management and Voting System using HashMap, LinkedHashMap, TreeMap, and Sets.
+    - `RoboWarehouse` (Insertion Sort) – Dynamically inserted package weights while maintaining ascending order; optimized for low memory and streaming data.
+    - `CinemaHouse` (Bubble Sort) – Sorted small sets of movie showtimes using simple, easy-to-maintain logic.
+    - `CropMonitor` (Quick Sort) – Efficiently sorted large, unordered sensor data by timestamp using fast partition-based sorting.
+- Practiced choosing optimal sorting algorithms based on real-world constraints.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [Java Collections](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/collections)
+
+---
+
