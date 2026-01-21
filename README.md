@@ -486,3 +486,22 @@ Successfully completed all assigned programs and verified the output results.
 
 ---
 
+### Day 27 - Scenario-Based Problems on DSA & OOPS
+
+*(Date: 17-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting.
+   - ArtExpo – Sort Artists by Registration Time
+   - FleetManager – Vehicle Maintenance Scheduler
+   - IceCreamRush – Sorting Flavors by Popularity
+   - SmartLibrary – Auto-Sort Borrowed Books
+   - GeoMeasure Solutions
+   - Bag-n-Ball Organizer
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [DSA Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+🔗 *Link :* [OOPs Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+
+---
+
