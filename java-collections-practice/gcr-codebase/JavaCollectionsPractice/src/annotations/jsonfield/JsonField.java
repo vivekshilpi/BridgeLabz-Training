@@ -1,4 +1,4 @@
-package com.annotations.jsonfield;
+package annotations.jsonfield;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

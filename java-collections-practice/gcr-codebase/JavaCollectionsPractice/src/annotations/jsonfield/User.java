@@ -1,4 +1,4 @@
-package com.annotations.jsonfield;
+package annotations.jsonfield;
 
 public class User {
     @JsonField(name = "user_name")

@@ -1,4 +1,4 @@
-package com.annotations.jsonfield;
+package annotations.jsonfield;
 
 import java.lang.reflect.Field;
 

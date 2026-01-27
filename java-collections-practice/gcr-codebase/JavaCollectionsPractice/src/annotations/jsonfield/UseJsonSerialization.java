@@ -1,4 +1,4 @@
-package com.annotations.jsonfield;
+package annotations.jsonfield;
 
 public class UseJsonSerialization {
     public static void main(String[] args) {
