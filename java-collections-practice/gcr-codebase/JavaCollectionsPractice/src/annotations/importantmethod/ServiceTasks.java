@@ -1,4 +1,4 @@
-package com.annotations.importantmethod;
+package annotations.importantmethod;
 
 public class ServiceTasks {
 

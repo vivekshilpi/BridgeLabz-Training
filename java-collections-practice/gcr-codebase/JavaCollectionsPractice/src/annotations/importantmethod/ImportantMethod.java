@@ -1,4 +1,4 @@
-package com.annotations.importantmethod;
+package annotations.importantmethod;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
