@@ -1,4 +1,4 @@
-package com.annotations.bugreport;
+package annotations.bugreport;
 
 public class SampleService {
 
