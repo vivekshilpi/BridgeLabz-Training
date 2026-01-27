@@ -1,4 +1,4 @@
-package com.annotations.deprecatedmethod;
+package annotations.deprecatedmethod;
 
 public class UseDeprecatedMethod {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.annotations.deprecatedmethod;
+package annotations.deprecatedmethod;
 
 public class LegacyAPI {
     // Old method marked as deprecated
