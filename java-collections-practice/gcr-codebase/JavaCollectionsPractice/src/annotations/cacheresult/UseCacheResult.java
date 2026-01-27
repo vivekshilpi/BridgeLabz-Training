@@ -1,4 +1,4 @@
-package com.annotations.cacheresult;
+package annotations.cacheresult;
 
 import java.lang.reflect.Method;
 

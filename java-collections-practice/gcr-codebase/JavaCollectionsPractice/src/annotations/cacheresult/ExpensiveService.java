@@ -1,4 +1,4 @@
-package com.annotations.cacheresult;
+package annotations.cacheresult;
 
 public class ExpensiveService {
     // Expensive computation method
