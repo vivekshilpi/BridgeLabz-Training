@@ -603,7 +603,7 @@ Successfully completed all assigned programs and verified the output results.
 
 ---
 
-### Day 33 - JSON Data, Scenario-Based on Collections
+### Day 33 - JSON Data, Scenario-Based on Collections 
 
 *(Date: 24-Jan-2026)*
 
