@@ -102,3 +102,35 @@
 
 ---
 
+## LeetCode and Scenario-Based Practice
+
+### Day 7 
+
+*(Date: 23-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - FeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-problem/CollectionsScenarioBased/src/day1)
+
+---
+
+### Day 8
+
+*(Date: 24-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-problem/CollectionsScenarioBased/src/day2)
+
