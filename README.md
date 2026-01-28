@@ -29,3 +29,21 @@
 👉 [Java Collections](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/collections)
 
 ---
+
+### Day 3 - Java Streams
+
+*(Date: 19-Jan-2026)*
+
+- Learned Java I/O Streams and how they are used to perform input and output operations in Java.
+- Studied different types of streams in Java based on data handling and functionality.
+- Learned File Streams to read and write data directly from files.
+- Studied Object Streams to read and write Java objects using serialization and deserialization.
+- Learned ByteArray Streams to handle data in memory using byte arrays.
+- Studied Buffered Streams to improve I/O performance by reducing direct disk access.
+- Learned Reader and Writer classes to handle character-based input and output operations.
+- Understood key considerations such as stream closing, exception handling, and performance impact.
+- Learned best practices for Java I/O by using buffering, try-with-resources, and choosing the right stream type.
+
+🔗 *Link :* [Streams](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/streams) 
+
+---
