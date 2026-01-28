@@ -47,3 +47,20 @@
 🔗 *Link :* [Streams](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/streams) 
 
 ---
+
+### Day 4 - Exception Handling
+
+*(Date: 20-Jan-2026)*
+
+- Learned exceptions in Java and how they handle runtime errors to prevent abnormal program termination.
+- Studied different types of exceptions in Java including checked and unchecked exceptions.
+- Learned custom exceptions to handle application-specific error conditions.
+- Studied exception handling using try-catch, finally blocks to catch and handle errors gracefully.
+- Studied try-with-resources statement to automatically close resources after use.
+- Learned the throws clause to declare exceptions that may be passed to the calling method.
+- Studied the throw statement to explicitly throw an exception.
+- Learned defining constructors in custom exception classes to pass error messages or causes.
+
+🔗 *Link :* [Exception Handling](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/exceptions) 
+
+---
