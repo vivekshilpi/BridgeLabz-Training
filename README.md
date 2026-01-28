@@ -533,3 +533,27 @@ Successfully completed all assigned programs and verified the output results.
 -  Successfully completed all assigned programs and verified the output results.
 
 🔗 *Link :* [DSA Scenario-Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
+
+###  Day 30 – DSA Sorting scenario, BST scenario, Regex & JUnit practice
+**(Date: 21-Jan-2026)**
+
+- DSA Sorting Scenarios:
+  - TailorShop (Insertion Sort) – Sorted orders by delivery deadlines in real time.
+  - MedWarehouse (Merge Sort) – Merged branch-wise medicine expiry records for time-sensitive inventory.
+- Binary Search Tree (BST) Applications:
+  - University Records – Inserted, deleted, searched, and displayed student roll numbers.
+  - E-Commerce Inventory – Managed products via SKU-based BST operations.
+  - Music App – Organized and searched tracks by track ID using in-order traversal.
+- Practiced Regex for pattern matching and JUnit for automated unit testing of Java programs.
+- Focused on efficient data handling, real-time sorting, structured storage, and test-driven development.
+
+
+🔗 *Link :* [DSA Scenario Based](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+ 
+🔗 *Link :* [Regex Practice](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/regex)
+ 
+🔗 *Link :* [Jnuit Practice](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/junit)
+
+ ---
