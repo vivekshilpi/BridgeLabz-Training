@@ -21,7 +21,7 @@ BridgeLabz-Training/
 │ │ │── methods/
 │ │ │── programming-elements/
 │ │ │── programming-prerequisites/
-│ │ │── strings/
+│ │ │── strings/ 
 │ │── leetcode-codebase/
 │ │── scenario-based-codebase/
 │── README.md
