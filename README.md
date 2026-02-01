@@ -20,7 +20,7 @@
 
 🔗 *Link :* [Functional Interface](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/interfaces) 
 
---- 
+---  
 
 ### Day 2 – Streams & Collectors  
 **(Date: 28-Jan-2026)**
