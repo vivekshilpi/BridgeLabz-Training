@@ -8,7 +8,7 @@
 
 - Explored `lambda expressions` to understand functional programming concepts and concise implementation of functional interfaces in Java.
 - Practiced different lambda expression syntaxes and learned how they reduce boilerplate code and improve readability.
-- Understood `method references` as a cleaner alternative to lambda expressions by directly referring to existing methods.
+- Understood `method references` as a cleaner alternative to lambda expressions by directly referring to existing methods. 
 - Studied different types of method references including static methods, instance methods, and constructor references.
 - - Implemented custom and predefined functional interfaces (`Predicate`, `Function`, `Consumer`, `Supplier`).
 - Practiced method references:
