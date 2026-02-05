@@ -6,7 +6,7 @@
 
 - Studied SOLID principles:
   - Single Responsibility (SRP)
-  - Open/Closed (OCP)
+  - Open/Closed (OCP) 
   - Liskov Substitution (LSP)
   - Interface Segregation (ISP)
   - Dependency Inversion (DIP)
