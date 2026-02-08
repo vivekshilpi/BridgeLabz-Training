@@ -1,0 +1,149 @@
+-- ============================================================
+-- Problem: Exercise 1 - Simple CRUD Application
+-- File: EmployeeManagementSystem.db
+-- Table: employees
+-- Database: blabz_db
+-- ============================================================
+
+-- mysql>
+USE blabz_db;
+
+Database changed
+
+mysql> 
+DROP TABLE IF EXISTS employees;
+
+Query OK, 0 rows affected, 1 warning (0.05 sec)
+
+mysql> CREATE TABLE employees (
+    ->     id INT PRIMARY KEY AUTO_INCREMENT,
+    ->     name VARCHAR(50),
+    ->     designation VARCHAR(50),
+    ->     salary DECIMAL(10,2)
+    -> );
+    
+Query OK, 0 rows affected (0.03 sec)
+
+-- -----------------------------------------------------
+--️ ADD EMPLOYEES (CREATE OPERATION)
+-- -----------------------------------------------------
+
+mysql> 
+INSERT INTO employees (name, designation, salary) VALUES ('Vivek', 'Software Engineer', 45000);
+
+Query OK, 1 row affected (0.02 sec)
+
+mysql> 
+INSERT INTO employees (name, designation, salary) VALUES ('Vishaka', 'Data Analyst', 40000);
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> 
+INSERT INTO employees (name, designation, salary) VALUES ('Yash', 'System Admin', 38000);
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> 
+INSERT INTO employees (name, designation, salary) VALUES ('Dimpi', 'HR Executive', 35000);
+
+Query OK, 1 row affected (0.00 sec)
+
+/* =====================================================
+    VIEW ALL EMPLOYEES (READ OPERATION)
+   ===================================================== */
+
+mysql> 
+SELECT * FROM employees;
+
++----+---------+-------------------+----------+
+| id | name    | designation       | salary   |
++----+---------+-------------------+----------+
+|  1 | Vivek   | Software Engineer | 45000.00 |
+|  2 | Vishaka | Data Analyst      | 40000.00 |
+|  3 | Yash    | System Admin      | 38000.00 |
+|  4 | Dimpi   | HR Executive      | 35000.00 |
++----+---------+-------------------+----------+
+4 rows in set (0.01 sec)
+
+/* =====================================================
+    SEARCH EMPLOYEE BY NAME
+   ===================================================== */
+
+mysql> 
+SELECT * FROM employees WHERE name = 'Vishaka';
+
++----+---------+--------------+----------+
+| id | name    | designation  | salary   |
++----+---------+--------------+----------+
+|  2 | Vishaka | Data Analyst | 40000.00 |
++----+---------+--------------+----------+
+1 row in set (0.01 sec)
+
+/* =====================================================
+    UPDATE EMPLOYEE SALARY (UPDATE OPERATION)
+   ===================================================== */
+
+mysql> UPDATE employees
+    -> SET salary = 48000
+    -> WHERE name = 'Vivek';
+    
+Query OK, 1 row affected (0.02 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> 
+SELECT name, salary FROM employees WHERE name = 'Vivek';
+
++-------+----------+
+| name  | salary   |
++-------+----------+
+| Vivek | 48000.00 |
++-------+----------+
+1 row in set (0.00 sec)
+
+/* =====================================================
+    DELETE EMPLOYEE (DELETE OPERATION)
+   ===================================================== */
+
+mysql> DELETE FROM employees
+    -> WHERE name = 'Dimpi';
+    
+Query OK, 1 row affected (0.01 sec)
+
+mysql> 
+SELECT * FROM employees;
+
++----+---------+-------------------+----------+
+| id | name    | designation       | salary   |
++----+---------+-------------------+----------+
+|  1 | Vivek   | Software Engineer | 48000.00 |
+|  2 | Vishaka | Data Analyst      | 40000.00 |
+|  3 | Yash    | System Admin      | 38000.00 |
++----+---------+-------------------+----------+
+3 rows in set (0.00 sec)
+
+/* =====================================================
+    PARTIAL SEARCH (BONUS)
+   ===================================================== */
+
+mysql> 
+SELECT * FROM employees WHERE name LIKE 'Vi%';
+
++----+---------+-------------------+----------+
+| id | name    | designation       | salary   |
++----+---------+-------------------+----------+
+|  1 | Vivek   | Software Engineer | 48000.00 |
+|  2 | Vishaka | Data Analyst      | 40000.00 |
++----+---------+-------------------+----------+
+2 rows in set (0.00 sec)
+
+/* =====================================================
+   END OF CRUD EXERCISE
+   Concepts Covered:
+   - CREATE (INSERT)
+   - READ (SELECT)
+   - UPDATE
+   - DELETE
+   - SEARCH using WHERE and LIKE
+   ===================================================== */
+
+
