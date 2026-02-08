@@ -731,7 +731,7 @@ Successfully completed all assigned programs and verified the output results.
 👉 [Design Principles & Patterns](https://github.com/vivekshilpi/BridgeLabz-Training/tree/java-designpattern-practice/java-designpattern-practice/gcr-codebase/DesignPatternPractice/src/com)
 
 ### 🗓 Day 39 – Multithreading in Java  
-**(Date: 02/03-Feb-2026)**
+**(Date: 02/03-Feb-2026)** 
 - Studied process vs thread concepts and multithreading benefits and drawbacks.
 - Learned Java thread lifecycle:
   - `NEW`, `RUNNABLE`, BLOCKED`, `WAITING`, `TIMED_WAITING` & `TERMINATED`
