@@ -770,7 +770,7 @@ Successfully completed all assigned programs and verified the output results.
 
 ---
 
-### JDBC (Java Database Connectivity)
+### Day 41 : JDBC (Java Database Connectivity)
 *(Date: 09-Feb-2026)*
 
 - Explored `JDBC` and its role in connecting Java applications with relational databases.
